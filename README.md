@@ -32,10 +32,6 @@ Aqui está um gráfico que mostra as linguagens de programação e tecnologias q
 
 > O gráfico acima é gerado automaticamente com base no meu uso no GitHub. Ele reflete as tecnologias que mais contribuo.
 
-## 🌱 Estou aprendendo
-
-Atualmente, estou focado em aprender mais sobre **Arquitetura de Software**, **Docker**, **Kubernetes** e **Cloud Computing**.
-
 ## 📬 Como entrar em contato
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/erik-bandeira-6aa355246/), ou me mandar uma mensagem diretamente aqui no GitHub.
