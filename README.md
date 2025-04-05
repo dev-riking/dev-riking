@@ -17,12 +17,12 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 Eu trabalho com uma variedade de tecnologias, incluindo, mas não se limitando a:
 
-- **JavaScript / TypeScript**
-- **Node.js / React / Angular**
+- **JavaScript**
+- **Node.js / React**
 - **Java / Spring Boot**
-- **SQL / MySQL / MongoDB**
+- **SQL / MySQL**
 - **HTML5 / CSS3 / Bootstrap**
-- **React Native / Flutter** (para desenvolvimento mobile)
+- **React Native** (para desenvolvimento mobile)
 
 ## 📊 Linguagens e Tecnologias
 
