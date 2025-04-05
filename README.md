@@ -2,16 +2,16 @@
 
 Bem-vindo ao meu repositório! Sou **Erik Bandeira**, desenvolvedor Full Stack com experiência em desenvolvimento web e mobile. Aqui você encontrará uma coleção de projetos que demonstram minha habilidade em várias tecnologias, como **Java**, **SQL**, **HTML/CSS**, **JavaScript**, entre outras.
 
-## 📈 Repositórios Populares
+## 📈 Repositórios De Aprendizado
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
 - [**AnaliseDeRequisitos**](https://github.com/dev-riking/AnaliseDeRequisitos) - Análise de requisitos de sistemas.
 - [**BancoDeDados_SQL_MWB_Diagramas**](https://github.com/dev-riking/BancoDeDados_SQL_MWB_Diagramas) - Diagramação de banco de dados usando SQL.
-- [**Java**](https://github.com/dev-riking/Java) - Projetos desenvolvidos com Java.
+- [**Java**](https://github.com/dev-riking/Java) - Atividades desenvolvidas com Java.
 - [**JavaPOO_Desktop_ConexaoBD**](https://github.com/dev-riking/JavaPOO_Desktop_ConexaoBD) - Aplicação desktop em Java com conexão a banco de dados.
-- [**Portugol**](https://github.com/dev-riking/Portugol) - Projetos em Portugol.
-- [**Web_Html_Css**](https://github.com/dev-riking/Web_Html_Css) - Projetos front-end utilizando HTML e CSS.
+- [**Portugol**](https://github.com/dev-riking/Portugol) - Atividades em Portugol.
+- [**Web_Html_Css**](https://github.com/dev-riking/Web_Html_Css) - Atividades com front-end utilizando HTML e CSS.
 
 ## 🛠️ Tecnologias
 
