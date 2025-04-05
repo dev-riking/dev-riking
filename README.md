@@ -21,7 +21,7 @@ Eu trabalho com uma variedade de tecnologias, incluindo, mas não se limitando a
 - **Node.js / React**
 - **Java / Spring Boot**
 - **SQL / MySQL**
-- **HTML5 / CSS3 / Bootstrap**
+- **HTML5 / CSS3 / Bootstrap / EJS**
 - **React Native** (para desenvolvimento mobile)
 
 ## 📊 Linguagens e Tecnologias
